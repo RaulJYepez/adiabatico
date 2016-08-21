@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proceso adiabatico</string>
+    <string name="pa">Pa</string>
+    <string name="pb">Pb</string>
+    <string name="va">Va</string>
+    <string name="vb">Vb</string>
+    <string name="ta">Ta</string>
+    <string name="tb">Tb</string>
+    <string name="wab">Wab</string>
+    <string name="uab">Uab</string>
+    <string name="calcular">Calcular !</string>
+    <string name="monoatomico">Monoatomico</string>
+    <string name="diatomico">Diatomico</string>
+</resources>
